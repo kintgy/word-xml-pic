@@ -1,0 +1,1255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+            xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing"
+            xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
+    <w:body>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>【单项选择题】</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve">  </w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>1. 科目汇总表的汇</w:t>
+            </w:r>
+            <w:r>
+                <w:drawing>
+                    <wp:inline distT="0" distR="0" distB="0" distL="0">
+                        <wp:extent cx="1267841" cy="570103"/>
+                        <wp:docPr id="0" name="Drawing 0" descr="图片"/>
+                        <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                    <pic:nvPicPr>
+                                        <pic:cNvPr id="0" name="Picture 0" descr="图片"/>
+                                        <pic:cNvPicPr>
+                                            <a:picLocks noChangeAspect="true"/>
+                                        </pic:cNvPicPr>
+                                    </pic:nvPicPr>
+                                    <pic:blipFill>
+                                        <a:blip r:embed="rId3"/>
+                                        <a:stretch>
+                                            <a:fillRect/>
+                                        </a:stretch>
+                                    </pic:blipFill>
+                                    <pic:spPr>
+                                        <a:xfrm>
+                                            <a:off x="0" y="0"/>
+                                            <a:ext cx="1267841" cy="570103"/>
+                                        </a:xfrm>
+                                        <a:prstGeom prst="rect">
+                                            <a:avLst/>
+                                        </a:prstGeom>
+                                    </pic:spPr>
+                                </pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:r>
+                <w:t>总范围是（ ）。</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"> A. 全部账户的借方余额</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"> B. 全部账户的贷方余额</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"> C. 全部账户的借、贷方发生额</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"> D. 全部账户的借、贷方余额</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>【答案】C</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>【难度】一般</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>【解析】科目汇总表的汇总范围是全部账户的借、贷方发生额。故选C。</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>【分数】5.0</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve">  </w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>【多项选择题】</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>2. 资产应具备的基本特征有（ ）。</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"> A. 资产是由企业过去的交易或事项形成</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"> B. 必须是投资者投入的</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"> C. 资产是由企业拥</w:t>
+            </w:r>
+            <w:r>
+                <w:drawing>
+                    <wp:inline distT="0" distR="0" distB="0" distL="0">
+                        <wp:extent cx="910463" cy="331851"/>
+                        <wp:docPr id="1" name="Drawing 1" descr="图片"/>
+                        <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                            <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                    <pic:nvPicPr>
+                                        <pic:cNvPr id="0" name="Picture 1" descr="图片"/>
+                                        <pic:cNvPicPr>
+                                            <a:picLocks noChangeAspect="true"/>
+                                        </pic:cNvPicPr>
+                                    </pic:nvPicPr>
+                                    <pic:blipFill>
+                                        <a:blip r:embed="rId4"/>
+                                        <a:stretch>
+                                            <a:fillRect/>
+                                        </a:stretch>
+                                    </pic:blipFill>
+                                    <pic:spPr>
+                                        <a:xfrm>
+                                            <a:off x="0" y="0"/>
+                                            <a:ext cx="910463" cy="331851"/>
+                                        </a:xfrm>
+                                        <a:prstGeom prst="rect">
+                                            <a:avLst/>
+                                        </a:prstGeom>
+                                    </pic:spPr>
+                                </pic:pic>
+                            </a:graphicData>
+                        </a:graphic>
+                    </wp:inline>
+                </w:drawing>
+            </w:r>
+            <w:r>
+                <w:t>有和控制的</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"> D. 资产预期能为企业带来经济利益</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve">	 【答案】ACD  </w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"> 【难度】一般</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>【分数】5.0</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>【漏选分数】2.5</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"> 【解析】资产是过去的交易事项形成，企业拥有或者控制的预期会给企业带来经济利益的资源。故选ACD。</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve">  </w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>【不定项选择题】</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>3. 科目汇总表的汇总范围是（ ）。</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"> A. 第一个选项</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"> B. 第二个选项</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"> C. 第三个选项</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"> D. 第四个选项</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>【答案】AC</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve">  </w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>【填空题】</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>4. 这是填空题的题干。这是要填的空___，这是第二个空___。</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>【答案】第一个空的答案##第二个空的答案1|答案2</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"> 【难度】一般</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>【分数】5.0</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"> 【解析】资产是过去的交易事项形成，企业拥有或者控制的预期会给企业带来经济利益的资源。故选ACD。</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve">  </w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>【判断题】</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>5. 经上级有关部门批准的经济业务，应将批准文件作为原始凭证附件。</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>【答案】正确</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>【解析】无</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>【分数】3.0</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>【难度】简单</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve">	 </w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve">  </w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>【问答题】</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>6. 经上级有关部门批准的经济业务，应将批准文件作为原始凭证附件，请问是否是正确的？</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve">     【答案】正确</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve">     【难度】一般</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve">     【分数】6.0</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>【解析】无</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve">  </w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>【材料题】</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>7. (一)资料：某公司2013年7月31日对存货类财产进行清查时，发现有下列情况：</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>(1)盘盈甲商品10件，单位成本为200元；后经查明是由于收发计量上的误差所造成的。</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"> (2)乙商品毁损20件，单位成本为300元，单位残值为50元，作原材料入库；后经查明为责任人工作过失所造成的损失，应由责任人赔偿2400元。假定不考虑相关税费。</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>(二)要求根据以上资料，对以下5个问题分别作出正确的选择。</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve">	 </w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve">  </w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>【-单项选择题】</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"> 7-1. 批准前，乙商品“待处理财产损溢”科目借方应记的金额为（  ）元。</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"> A. 2000</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"> B. 4000</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"> C. 6000</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"> D. 8000</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>【答案】C</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>【解析】无</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>【难度】简单</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>【分数】5.0</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve">	 </w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve">  </w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>【-单项选择题】</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"> 7-2. 批准前，甲商品“待处理财产损溢”科目贷方应记的金额为（  ）元。</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"> A. 2000</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"> B. 4000</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"> C. 6000</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"> D. 8000</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>【答案】A</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>【解析】无</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>【难度】简单</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>【分数】5.0</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve">	 </w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve">  </w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>【-单项选择题】</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"> 7-3. 批准后，乙商品“管理费用”科目借方应记的金额为（  ）元。</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"> A. 2000</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"> B. 2600</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"> C. 3600</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"> D. 6000</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>【答案】B</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>【解析】无</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>【难度】简单</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>【分数】5</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve">	 </w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve">  </w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>【-单项选择题】</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve">  </w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"> 7-4. 批准后，甲商品“管理费用”科目贷方应记的金额为（  ）元。</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"> A. 2000</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"> B. 4000</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"> C. 6000</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"> D. 8000</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>【答案】A</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>【解析】无</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>【难度】一般</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>【分数】5.0</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve">	 </w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve">  </w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>【-多项选择题】</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"> 7-5. 批准后，应由责任人赔偿2400元应计入会计科目有（  ）。</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"> A. 管理费用</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"> B. 其他应收款</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"> C. 库存商品</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve"> D. 待处理财产损溢</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>【答案】BD</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>【解析】无</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>【分数】5.0</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>【材料题结束】</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve">	 </w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t xml:space="preserve">  </w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+            <w:r>
+                <w:t>【导入结束】</w:t>
+            </w:r>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="shimo normal"/>
+                <w:jc w:val="left"/>
+            </w:pPr>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:jc w:val="left"/>
+            </w:pPr>
+        </w:p>
+        <w:sectPr>
+            <w:pgSz w:orient="portrait" w:w="11900" w:h="16840"/>
+            <w:pgMar w:bottom="1440" w:left="1800" w:right="1800" w:top="1440" w:footer="992" w:header="851"/>
+            <w:cols w:space="425"/>
+            <w:docGrid w:type="lines" w:linePitch="312"/>
+        </w:sectPr>
+    </w:body>
+</w:document>
