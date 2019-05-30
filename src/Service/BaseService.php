@@ -31,12 +31,12 @@ class BaseService
             $picIndex = $node->getElementsByTagName('blip')->item(0)->getAttribute('r:embed');
             $img = $this->dealPic(substr($picIndex, 3), $filename);
 
-            $pics->item($key)->nodeValue = $img;
+            $pics->item($key)->textContent = $img;
         }
 
         $paragraphs = $this->docXml->getElementsByTagName('p');
         foreach ($paragraphs as $key => $paragraph) {
-            echo $paragraphs->item($key)->nodeValue . '<br>';
+            echo $paragraphs->item($key)->textContent . '<br>';
         }
 
         var_dump($this->docXml->textContent);

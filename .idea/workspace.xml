@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1538077b-3074-46e7-9619-33bc89f4c24b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Service/BaseService.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Service/BaseService.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,15 +43,15 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="gitignore" value="6" />
-          <entry key="php" value="1434" />
+          <entry key="gitignore" value="9" />
+          <entry key="php" value="1438" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PHP" value="1434" />
-          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="PHP" value="1438" />
+          <entry key="PLAIN_TEXT" value="9" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -62,7 +62,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Controller/BaseController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
+            <state relative-caret-position="170">
               <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
             </state>
           </provider>
@@ -71,8 +71,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Service/BaseService.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+            <state relative-caret-position="363">
+              <caret line="51" column="45" selection-start-line="51" selection-start-column="45" selection-end-line="51" selection-end-column="45" />
+              <folding>
+                <element signature="n#src#0;n#img#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -80,8 +83,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            <state relative-caret-position="153">
+              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -89,22 +92,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="214" column="40" selection-start-line="214" selection-start-column="40" selection-end-line="214" selection-end-column="40" />
-              <folding>
-                <element signature="e#328#547#0" />
-                <element signature="e#556#703#0" />
-                <element signature="e#712#947#0" />
-                <element signature="e#730#844#0" />
-                <element signature="e#956#3248#0" />
-                <element signature="e#3257#3503#0" />
-                <element signature="e#3512#3758#0" />
-                <element signature="e#3767#4016#0" />
-                <element signature="e#4025#4273#0" />
-                <element signature="e#4282#4499#0" />
-                <element signature="e#4508#4726#0" />
-                <element signature="e#4735#4979#0" />
-              </folding>
+            <state relative-caret-position="-460">
+              <caret line="42" column="51" selection-start-line="42" selection-start-column="51" selection-end-line="42" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -113,7 +102,7 @@
         <entry file="file://$PROJECT_DIR$/templates/base.html.twig">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+              <caret column="15" selection-start-column="15" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -137,8 +126,8 @@
         <option value="$PROJECT_DIR$/src/Service/test.php" />
         <option value="$PROJECT_DIR$/test" />
         <option value="$PROJECT_DIR$/test.xml" />
-        <option value="$PROJECT_DIR$/src/Service/BaseService.php" />
         <option value="$PROJECT_DIR$/src/Controller/BaseController.php" />
+        <option value="$PROJECT_DIR$/src/Service/BaseService.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
@@ -303,21 +292,6 @@
             <path>
               <item name="word" type="b2602c69:ProjectViewProjectNode" />
               <item name="word" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Service" type="462c0819:PsiDirectoryNode" />
-              <item name="BaseService.php" type="88303cf5:PhpFileNode" />
-            </path>
-            <path>
-              <item name="word" type="b2602c69:ProjectViewProjectNode" />
-              <item name="word" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Service" type="462c0819:PsiDirectoryNode" />
-              <item name="BaseService.php" type="88303cf5:PhpFileNode" />
-              <item name="BaseService" type="e2efd96b:PhpElementNode" />
-            </path>
-            <path>
-              <item name="word" type="b2602c69:ProjectViewProjectNode" />
-              <item name="word" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -364,13 +338,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12439000" />
+    <option name="totallyTimeSpent" value="12494000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27155825" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2753404" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -406,50 +380,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Controller/BaseController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
+        <state relative-caret-position="170">
           <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="214" column="40" selection-start-line="214" selection-start-column="40" selection-end-line="214" selection-end-column="40" />
-          <folding>
-            <element signature="e#328#547#0" />
-            <element signature="e#556#703#0" />
-            <element signature="e#712#947#0" />
-            <element signature="e#730#844#0" />
-            <element signature="e#956#3248#0" />
-            <element signature="e#3257#3503#0" />
-            <element signature="e#3512#3758#0" />
-            <element signature="e#3767#4016#0" />
-            <element signature="e#4025#4273#0" />
-            <element signature="e#4282#4499#0" />
-            <element signature="e#4508#4726#0" />
-            <element signature="e#4735#4979#0" />
-          </folding>
+        <state relative-caret-position="-460">
+          <caret line="42" column="51" selection-start-line="42" selection-start-column="51" selection-end-line="42" selection-end-column="51" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/base.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Service/BaseService.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        <state relative-caret-position="363">
+          <caret line="51" column="45" selection-start-line="51" selection-start-column="45" selection-end-line="51" selection-end-column="45" />
+          <folding>
+            <element signature="n#src#0;n#img#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        <state relative-caret-position="153">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
         </state>
       </provider>
     </entry>
